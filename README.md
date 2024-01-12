@@ -1,6 +1,6 @@
 # Space-Shooter-MobileApplication
 
- I have created a space shooter game on App Inventor where Objects used in the game are Spaceship, bullet and asteroids. I have attached a demo video as well
+ I have created a space shooter game on App Inventor where Objects used in the game are Spaceship, bullet and asteroids.
 
 Rules of the game are as follows
 The user needs to hit asteroid through the bullets to gain a point. After the accumulation of 5 points the user wins and the game ends. 
